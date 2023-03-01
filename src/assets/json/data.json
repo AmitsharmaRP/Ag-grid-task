@@ -1,0 +1,66 @@
+[
+    {
+        "isToggled": true,
+        "date": "2023-01-20",
+        "isNew": true,
+        "firstName": "Akshay",
+        "lastName": "Jain",
+        "sex": "Male"
+    },
+    {
+        "isToggled": false,
+        "date": "2023-01-21",
+        "isNew": false,
+        "firstName": "Akshaya",
+        "lastName": "Jain",
+        "sex": "Female"
+    },
+    {
+        "isToggled": true,
+        "date": "2023-01-30",
+        "isNew": true,
+        "firstName": "Ajay",
+        "lastName": "Sharma",
+        "sex": "Male"
+    },
+    {
+        "isToggled": false,
+        "date": "2023-02-21",
+        "isNew": false,
+        "firstName": "Drake",
+        "lastName": "Josh",
+        "sex": "Male"
+    },
+    {
+        "isToggled": true,
+        "date": "2023-04-23",
+        "isNew": false,
+        "firstName": "Aradhya",
+        "lastName": "Sharma",
+        "sex": "Female"
+    },
+    {
+        "isToggled": true,
+        "date": "2023-11-30",
+        "isNew": true,
+        "firstName": "Shatakshi",
+        "lastName": "Jain",
+        "sex": "Female"
+    },
+    {
+        "isToggled": true,
+        "date": "2023-09-29",
+        "isNew": true,
+        "firstName": "Unnati",
+        "lastName": "Sharma",
+        "sex": "Female"
+    },
+    {
+        "isToggled": true,
+        "date": "2023-04-15",
+        "isNew": true,
+        "firstName": "Ram",
+        "lastName": "Jain",
+        "sex": "Male"
+    }
+]
